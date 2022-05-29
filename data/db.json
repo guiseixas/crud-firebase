@@ -1,0 +1,36 @@
+{
+  "professores": [
+    {
+      "id": 0,
+      "name": "Jefferson",
+      "university": "UFC",
+      "degree": "Graduação"
+    },
+    {
+      "id": 1,
+      "name": "Francisco Aragão",
+      "university": "USP",
+      "degree": "Doutorado"
+    },
+    {
+      "id": 2,
+      "name": "Atílio",
+      "university": "UNICAMP",
+      "degree": "Mestrado"
+    }
+  ],
+  "estudantes": [
+    {
+      "name": "Guilherme Seixas",
+      "course": "SI",
+      "ira": 9,
+      "id": 0
+    },
+    {
+      "id": 1,
+      "name": "Luiz",
+      "course": "DD",
+      "ira": 9
+    }
+  ]
+}
